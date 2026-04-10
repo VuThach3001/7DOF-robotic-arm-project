@@ -1,0 +1,3 @@
+[submodule "software-7dof-robotic-arm"]
+	path = software-7dof-robotic-arm
+	url = https://github.com/VuThach3001/software-7dof-robotic-arm.git
